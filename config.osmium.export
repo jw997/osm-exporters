@@ -1,0 +1,18 @@
+{
+    "attributes": {
+        "type":      "type",
+        "id":        "id",
+        "version":   false,
+        "changeset": false,
+        "timestamp": false,
+        "uid":       false,
+        "user":      false,
+        "way_nodes": false
+    },
+    "format_options": {
+    },
+    "linear_tags":  false,
+    "area_tags":    true,
+    "exclude_tags": [],
+    "include_tags": []
+}
